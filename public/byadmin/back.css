@@ -1,0 +1,75 @@
+.theChatHolder card shadow max-height-vh-90 overflow-auto overflow-x-hidden {
+background-color: #ff0000 !important;
+}
+.card-header {
+background-color: #2dce89 !important;
+}
+
+.card {
+background-color: #2dce8914 !important;
+}
+
+.card-footer {
+background-color: #b2e8d2 !important;
+}
+
+.btn-primary {
+background-color: #172b4d !important;
+border-color: #172b4d !important;
+}
+
+.badge-success {
+color: #000000 !important;
+background-color: #91ef0f !important;
+}
+
+.badge-danger {
+color: #ffffff !important;
+background-color: #dc3545 !important;
+}
+
+.nav-link.active {
+border-radius: 20px;
+background: linear-gradient(87deg, #2dce89 0, #2dcecc 100%) !important;
+}
+
+.nav-link {
+padding: .95rem 1.5rem !important;
+}
+
+.nav-link {
+font-size: 1.0rem !important;
+}
+
+.nav-link > i {
+font-size: 1.2375rem !important;
+}
+
+.text-white {
+color: #000 !important;
+}
+
+.bg-gradient-primary {
+background: linear-gradient(87deg, #00e684 0, #2dcec8 100%) !important;
+}
+
+.bg-gradient-info {
+background: linear-gradient(87deg, #00e684 0, #2dcec8 100%) !important;
+}
+
+.text-blue {
+color: #2dcec7 !important;
+}
+
+.text-red {
+color: #2dcec7 !important;
+}
+
+.text-orange {
+color: #2dcec7 !important;
+}
+
+.btn-outline-primary {
+border-color: #006056 !important;
+color: #06e38c !important;
+}
